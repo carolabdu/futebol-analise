@@ -14,7 +14,6 @@ data.csv                 # Dataset com as 5 principais ligas europeias (2020/21)
 metrics.txt              # Lista de todas as colunas disponíveis
 columns_description.md   # Descrição detalhada de cada coluna
 requirements.txt         # Dependências Python
-CLAUDE.md                # Contexto técnico do projeto para IAs
 README.md                # Este arquivo
 ```
 
@@ -76,4 +75,3 @@ jupyter notebook 0-Trabalho.ipynb
 
 - [ ] Aplicar clustering (k-means) para encontrar jogadores similares no dataset completo
 - [ ] Normalizar métricas por posição para comparação cross-positional
-- [ ] Adicionar seção de comparação: City vs. médias da liga
